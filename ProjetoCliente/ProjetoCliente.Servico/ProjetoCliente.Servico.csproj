@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Proje5toCliente.Data\ProjetoCliente.Data.csproj" />
+    <ProjectReference Include="..\ProjetoCliente.Dominio\ProjetoCliente.Dominio.csproj" />
+  </ItemGroup>
+
+</Project>

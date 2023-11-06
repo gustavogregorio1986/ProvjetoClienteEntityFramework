@@ -1,0 +1,17 @@
+C:\ProjetoClienteEntityframework\ProjetoCliente\ProjetoCliente.Servico\bin\Debug\net5.0\ProjetoCliente.Servico.deps.json
+C:\ProjetoClienteEntityframework\ProjetoCliente\ProjetoCliente.Servico\bin\Debug\net5.0\ProjetoCliente.Servico.dll
+C:\ProjetoClienteEntityframework\ProjetoCliente\ProjetoCliente.Servico\bin\Debug\net5.0\ProjetoCliente.Servico.pdb
+C:\ProjetoClienteEntityframework\ProjetoCliente\ProjetoCliente.Servico\bin\Debug\net5.0\ProjetoCliente.Data.dll
+C:\ProjetoClienteEntityframework\ProjetoCliente\ProjetoCliente.Servico\bin\Debug\net5.0\ProjetoCliente.Dominio.dll
+C:\ProjetoClienteEntityframework\ProjetoCliente\ProjetoCliente.Servico\bin\Debug\net5.0\ProjetoCliente.Data.pdb
+C:\ProjetoClienteEntityframework\ProjetoCliente\ProjetoCliente.Servico\bin\Debug\net5.0\ProjetoCliente.Dominio.pdb
+C:\ProjetoClienteEntityframework\ProjetoCliente\ProjetoCliente.Servico\obj\Debug\net5.0\ProjetoCliente.Servico.csproj.AssemblyReference.cache
+C:\ProjetoClienteEntityframework\ProjetoCliente\ProjetoCliente.Servico\obj\Debug\net5.0\ProjetoCliente.Servico.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetoClienteEntityframework\ProjetoCliente\ProjetoCliente.Servico\obj\Debug\net5.0\ProjetoCliente.Servico.AssemblyInfoInputs.cache
+C:\ProjetoClienteEntityframework\ProjetoCliente\ProjetoCliente.Servico\obj\Debug\net5.0\ProjetoCliente.Servico.AssemblyInfo.cs
+C:\ProjetoClienteEntityframework\ProjetoCliente\ProjetoCliente.Servico\obj\Debug\net5.0\ProjetoCliente.Servico.csproj.CoreCompileInputs.cache
+C:\ProjetoClienteEntityframework\ProjetoCliente\ProjetoCliente.Servico\obj\Debug\net5.0\ProjetoCliente.Servico.csproj.CopyComplete
+C:\ProjetoClienteEntityframework\ProjetoCliente\ProjetoCliente.Servico\obj\Debug\net5.0\ProjetoCliente.Servico.dll
+C:\ProjetoClienteEntityframework\ProjetoCliente\ProjetoCliente.Servico\obj\Debug\net5.0\refint\ProjetoCliente.Servico.dll
+C:\ProjetoClienteEntityframework\ProjetoCliente\ProjetoCliente.Servico\obj\Debug\net5.0\ProjetoCliente.Servico.pdb
+C:\ProjetoClienteEntityframework\ProjetoCliente\ProjetoCliente.Servico\obj\Debug\net5.0\ref\ProjetoCliente.Servico.dll
